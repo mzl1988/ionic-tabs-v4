@@ -3,15 +3,17 @@ import { RouterModule } from '@angular/router';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { ContactPage } from './contact.page';
+import { TranslateModule } from '@ngx-translate/core';
+import { MinePage } from './mine.page';
 
 @NgModule({
   imports: [
     IonicModule,
     CommonModule,
     FormsModule,
-    RouterModule.forChild([{ path: '', component: ContactPage }])
+    TranslateModule.forChild(),
+    RouterModule.forChild([{ path: '', component: MinePage }])
   ],
-  declarations: [ContactPage]
+  declarations: [MinePage]
 })
-export class ContactPageModule {}
+export class MinePageModule {}

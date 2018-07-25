@@ -1,0 +1,11 @@
+{
+    "HOME": "首頁",
+    "MINE": "我的",
+    "IMAGE_PICKER": "圖像選擇器",
+    "CONTACTS": "聯繫人",
+    "CALENDER": "日曆",
+    "SOCIAL_SHARING": "社交分享",
+    "LIST": "列表",
+    "HELLO": "您好 {{value}}",
+    "INNER_HTML": "<span>欢迎来到我的Angular应用程序！这是一款使用最新技术的离子应用程序！</span>"
+}

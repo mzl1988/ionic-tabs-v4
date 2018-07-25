@@ -1,0 +1,11 @@
+{
+    "HOME": "Home",
+    "MINE": "Mine",
+    "IMAGE_PICKER": "Image Picker",
+    "CONTACTS": "Contacts",
+    "CALENDER": "Calendar",
+    "SOCIAL_SHARING": "Social Sharing",
+    "LIST": "List",
+    "HELLO": "hello {{value}}",
+    "INNER_HTML": "<span>Welcome to my Angular application! This is an ionic app which uses the latest technologies!</span>"
+}
